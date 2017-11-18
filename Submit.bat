@@ -1,7 +1,7 @@
 @echo off
 
 f:
-cd F:\SoftwareTest\zeng\03 Selenium
+cd F:\SoftwareTest\Github\03 Selenium
 
 git init
 git remote add gitee https://gitee.com/Cacho/Selenium.git

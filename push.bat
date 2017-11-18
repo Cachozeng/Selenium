@@ -1,6 +1,6 @@
 @echo off
 f:
-cd F:\SoftwareTest\zeng\02 InterfaceTest
+cd F:\SoftwareTest\Github\03 Selenium
 
 git add .
 set /p input=请输入备注信息：
